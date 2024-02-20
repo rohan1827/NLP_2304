@@ -1,0 +1,7 @@
+models,accuracy
+Naive Bayes,75.59
+Logistic Regression,75.48
+SVM,74.35
+Random Forest,66.82
+Decision Tree,60.18
+KNN,58.83
