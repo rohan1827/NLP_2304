@@ -1,5 +1,5 @@
 models,accuracy
-Random Forest,96.59
+Random Forest,96.55
 SVM,96.35
 Logistic Regression,96.24
 Decision Tree,95.74
